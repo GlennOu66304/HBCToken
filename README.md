@@ -28,7 +28,7 @@ contract:0x9Abe94B023249C510650704a0b3c5c5C88bC22EB
 
 [Create an Ethereum token using open source contracts (open-zeppelin)](https://www.freecodecamp.org/news/create-an-ethereum-token-using-open-source-contracts-open-zeppelin-1e132e6233ed/) 
 
-
+[斯坦福大牛1小时教会你开发智能合约](https://www.youtube.com/watch?v=mEviHi6DhPo)
 
 based on the eth todo project to move to btiger and move to 
 
